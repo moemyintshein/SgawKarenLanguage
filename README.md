@@ -2,7 +2,9 @@
 
 ![Image-1](/images/Karen-1.png)
 
-[Image-2](/images/Karen-2.png)
+![Image-2](/images/Karen-2.png)
+
+![SgawKarenKeyboardLayout](/images/sagaw_karen_layout.png)
 
 **ကညီအလံာ်ခီၣ်ထံး (ဗျည်းများ)**
 
