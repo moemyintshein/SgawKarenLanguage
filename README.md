@@ -11,6 +11,6 @@
 
 [Sgaw Karen keyboard for Keyman Official](https://keyman.com/keyboards/sil_sgaw_karen)
 
-[Karen Fonts](https://ktwg.org/karen-language-resources/)
+[Karen Fonts from Karen Teacher Working Group (KTWG)](https://ktwg.org/karen-language-resources/)
 
-[Documents](https://gutenberg.net.au/karen-people-of-burma.html)
+[History, Grammer, Dictionary Documents](https://gutenberg.net.au/karen-people-of-burma.html)
