@@ -64,3 +64,4 @@
 |-ျ |လာ့  |
 |-ွ |ဝါ့  |
 
+[S'gaw Karen language Wiki](https://en.wikipedia.org/wiki/S%27gaw_Karen_language)
