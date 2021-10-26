@@ -1,6 +1,6 @@
 # SgawKarenLanguage
 
-[Image-1](/images/Karen-1.png)
+![Image-1](/images/Karen-1.png)
 
 [Image-2](/images/Karen-2.png)
 
